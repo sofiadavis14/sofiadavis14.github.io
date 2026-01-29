@@ -1,6 +1,6 @@
 ## Welcome to Sofia's Website.
 
-TODO: Insert picture of me (or cartoon render)
+[](..sofia_pic.jpg)
 
 I work at: [Niagara University](https://niagara.edu)
 
