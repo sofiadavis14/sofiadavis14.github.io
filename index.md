@@ -1,1 +1,15 @@
-# Sofia's Website
+## Welcome to Sofia's Website.
+
+TODO: Insert picture of me (or cartoon render)
+
+I work at: [Niagara University](https://niagara.edu)
+
+Classes that I take:
+* CIS198
+* EDU451
+* EDU452
+* ASL201
+* MAT228
+
+Fun projects:
+* Creating music with AI. (click here to hear my latest AI generated musics)
