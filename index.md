@@ -12,4 +12,5 @@ Classes that I take:
 * MAT228
 
 Fun projects:
-* Creating music with AI. (click here to hear my latest AI generated musics)
+* Creating music with AI. [click here to hear my latest AI generated music](Sofia'sComEdSong2.mp3)
+![](SofiaAssignment1Meme.jpg)
