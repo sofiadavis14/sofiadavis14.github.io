@@ -1,6 +1,6 @@
 ## Welcome to Sofia's Website.
 
-![](.sofia_pic.jpg)
+![](sofia_pic.jpg)
 
 I work at: [Niagara University](https://niagara.edu)
 
