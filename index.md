@@ -14,3 +14,6 @@ Classes that I take:
 Fun projects:
 * Creating music with AI. [click here to hear my latest AI generated music](SofiasComEdSong2.mp3)
 ![](SofiaAssignment1Meme.jpg)
+
+
+[my html page](https://sofiadavis14.github.io/new.html)
